@@ -1,0 +1,12 @@
+About Me
+I’m an Embedded Systems Engineer passionate about designing and developing smart, efficient, and reliable hardware–software solutions. My work spans from microcontroller-based projects to AI-powered embedded applications.
+
+I have hands-on experience with:
+
+Microcontrollers: Arduino, ESP32, STM32, and PIC
+
+Embedded Programming: C, C++ for microcontroller applications
+
+IoT Development: Connecting hardware to the cloud for real-time monitoring and control
+
+Computer Vision: Implementing YOLO (You Only Look Once) models for real-time object detection on embedded platforms
